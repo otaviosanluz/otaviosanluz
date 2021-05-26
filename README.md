@@ -13,6 +13,6 @@ Eu sou o Otavio, estudante de Oceanografia que, por ter bons conhecimentos em es
 * [Linkedin](https://www.linkedin.com/in/otaviosanluz/)
 * [Blog](https://otaviosanluz.medium.com/)
 
-## My projects
+## Projects
 
 * [footlab](https://github.com/otaviosanluz/footlab)
