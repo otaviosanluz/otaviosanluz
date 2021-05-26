@@ -10,5 +10,5 @@ Eu sou o Otavio, estudante de Oceanografia que, por ter bons conhecimentos em es
 
 ## Find me around the world
 
-[Linkedin](https://www.linkedin.com/in/otaviosanluz/)
-[Blog](https://otaviosanluz.medium.com/)
+* [Linkedin](https://www.linkedin.com/in/otaviosanluz/)
+* [Blog](https://otaviosanluz.medium.com/)
