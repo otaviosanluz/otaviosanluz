@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, 👋 
 
-<!--
-**otaviosanluz/otaviosanluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Otavio, estudante de Oceanografia que, por ter bons conhecimentos em estatística e matemática, além de paixão por tecnologia, estou estudando também Data Science.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 Python
+* 🔮 Machine Learning
+* 📊 Data Visualization
+
+## Find me around the world
+
+[Linkedin](https://www.linkedin.com/in/otaviosanluz/)
+[Blog](https://otaviosanluz.medium.com/)
