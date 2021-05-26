@@ -1,4 +1,4 @@
-## Hi there, 👋 
+## Hi there 👋 
 
 Eu sou o Otavio, estudante de Oceanografia que, por ter bons conhecimentos em estatística e matemática, além de paixão por dados e tecnologia, estou desenvolvendo estudos em Data Science.
 
