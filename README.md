@@ -5,7 +5,7 @@ Eu sou o Otavio, estudante de Oceanografia que, por ter bons conhecimentos em es
 ## Skills
 
 * 🐍 Python
-* * 📊 Data Visualization
+* 📊 Data Visualization
 * 🔮 Machine Learning
 
 ## Find me around the world
