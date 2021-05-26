@@ -1,7 +1,6 @@
 ## Hi there 👋 
 
-![OTAVIO SANTOS](https://user-images.githubusercontent.com/62815288/119587877-f99cfa00-bda5-11eb-8958-f93f45b1f0e5.png)
-
+[Design sem nome.pdf](https://github.com/otaviosanluz/otaviosanluz/files/6543210/Design.sem.nome.pdf)
 
 I'm Otavio. Oceanography and Data Science student.
 
