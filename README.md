@@ -17,3 +17,4 @@ I'm Otavio. Oceanography and Data Science student.
 ## Projects
 
 * [footlab](https://github.com/otaviosanluz/footlab)
+* [Prevendo Customer Churn](https://github.com/otaviosanluz/Prevendo-Customer-Churn)
