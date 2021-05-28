@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm Otavio. Oceanography and Data Science student.
+I'm Otavio. Oceanographer and Data Scientist in treinament.
 
 ## Skills
 
