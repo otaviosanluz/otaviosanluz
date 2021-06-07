@@ -17,4 +17,4 @@ I'm Otavio. Oceanographer and Data Scientist in treinament.
 ## Projects
 
 * [footlab](https://github.com/otaviosanluz/footlab)
-* [Predicting Customer Churn](https://github.com/otaviosanluz/Prevendo-Customer-Churn)
+* [Customer Churn](https://github.com/otaviosanluz/Prevendo-Customer-Churn)
