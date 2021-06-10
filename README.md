@@ -12,7 +12,7 @@ I'm Otavio. Oceanographer and Data Scientist in treinament.
 ## Find me around the world
 
 * [Linkedin](https://www.linkedin.com/in/otaviosanluz/)
-* [Blog](https://otaviosanluz.medium.com/)
+* [Blog](https://medium.com/otavio-santos)
 
 ## Projects
 
