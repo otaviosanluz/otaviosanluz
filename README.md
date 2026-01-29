@@ -1,20 +1,18 @@
 ## Hi there 👋 
 
-I'm Otavio. Oceanographer and Data Scientist in treinament.
+I'm **Otavio Santos**, Football Data Scientist at Coritiba SAF.
 
 ## Skills
 
-* 📚 Math and Statistics
-* 🐍 Python
-* 📊 Data Visualization
-* 🔮 Machine Learning
+* 📚 Math and Statistics   
+* 📊 Data Visualization  
+* 🔮 Machine Learning  
+* 🧱 Data Engineering
+* 🐍 Python  
+* 🗄️ SQL  
+* ⚽ Scouting and Tactical Analysis  
 
-## Find me around the world
+## Find me around the world 🌍
 
-* [Linkedin](https://www.linkedin.com/in/otaviosanluz/)
-* [Blog](https://medium.com/otavio-santos)
+* 💼 [LinkedIn](https://www.linkedin.com/in/otaviosanluz/)
 
-## Projects
-
-* [footlab](https://github.com/otaviosanluz/footlab)
-* [Customer Churn](https://github.com/otaviosanluz/Prevendo-Customer-Churn)
