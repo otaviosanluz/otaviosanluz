@@ -2,7 +2,7 @@
 
 **Football Data Scientist at Coritiba SAF**
 
-Turning match data into tactical and strategic decisions. Working at the intersection of statistics, machine learning, and football analytics — and translating complex models into clear narratives for coaches and decision-makers.
+Turning match data into tactical and strategic decisions. Working at the intersection of statistics, machine learning, and football analytics — and translating complex models into clear narratives for decision-makers.
 
 ---
 
