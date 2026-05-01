@@ -6,6 +6,29 @@ Turning match data into tactical and strategic decisions. Working at the interse
 
 ---
 
+### What I Do With Data
+
+| Area | Description |
+|---|---|
+| Pre & Post-Match Reports | Automated performance analysis delivered before and after every match |
+| Player Scouting | Data-driven profiling and ranking of players aligned to the team's tactical demands |
+| Coach Scouting | Opponent coaching staff analysis through tactical and statistical patterns |
+| Set-Piece Analysis | Identification of patterns and vulnerabilities in offensive and defensive set-pieces |
+| Game Model Analysis | Mapping how teams behave across the four moments of the game using event and tracking data |
+| Benchmark Research | Comparative analysis of metrics across leagues and teams to set performance references |
+| Data Infrastructure | Organisation, standardisation, and documentation of football datasets for analytical use |
+
+---
+
+### From Data to Results
+
+- **Collect** — integrate and structure data from APIs (Impect, Wyscout, StatsBomb) into reproducible pipelines
+- **Analyse** — apply statistical methods and ML models to extract patterns that matter on the pitch
+- **Communicate** — translate findings into actionable reports and visualisations for coaches and the board
+- **Automate** — build workflows that deliver the right information at the right time, every matchday
+
+---
+
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
