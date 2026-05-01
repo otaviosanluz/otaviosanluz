@@ -10,9 +10,9 @@ Turning match data into tactical and strategic decisions. Working at the interse
 
 | Area | Description |
 |---|---|
-| Pre & Post-Match Reports | Automated performance analysis delivered before and after every match |
+| Pre & Post-Match Reports | Tailored reports built exclusively for each opponent — covering performance analysis before and after every match |
 | Player Scouting | Data-driven profiling and ranking of players aligned to the team's tactical demands |
-| Coach Scouting | Opponent coaching staff analysis through tactical and statistical patterns |
+| Coach Scouting | Data-driven profiling and ranking of coaches aligned to the club's tactical and strategic demands |
 | Set-Piece Analysis | Identification of patterns and vulnerabilities in offensive and defensive set-pieces |
 | Game Model Analysis | Mapping how teams behave across the four moments of the game using event and tracking data |
 | Benchmark Research | Comparative analysis of metrics across leagues and teams to set performance references |
@@ -24,7 +24,7 @@ Turning match data into tactical and strategic decisions. Working at the interse
 
 - **Collect** — integrate and structure data from APIs (Impect, Wyscout, StatsBomb) into reproducible pipelines
 - **Analyse** — apply statistical methods and ML models to extract patterns that matter on the pitch
-- **Communicate** — translate findings into actionable reports and visualisations for coaches and the board
+- **Communicate** — translate findings into actionable reports and visualisations for decision-makers and the board
 - **Automate** — build workflows that deliver the right information at the right time, every matchday
 
 ---
